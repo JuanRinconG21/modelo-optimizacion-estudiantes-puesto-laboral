@@ -1,4 +1,4 @@
-# Student Placement Optimization Analysis 📊
+# Modelo de optimizacion para que los estudiantes puedan obtener un puesto laboral📊
 
 ## Descripción del Proyecto
 
@@ -89,7 +89,7 @@ Python 3.8+
 
 ```bash
 # Clonar el repositorio
-git clone 
+git clone https://github.com/JuanRinconG21/modelo-optimizacion-estudiantes-puesto-laboral.git
 cd modelo-optimizacion-estudiantes-puesto-laboral
 
 # Instalar dependencias
