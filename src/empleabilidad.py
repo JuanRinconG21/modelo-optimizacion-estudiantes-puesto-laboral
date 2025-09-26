@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler #Para estandarizar los datos y 
 import pulp #Para poder encontrar la solución óptima
 
 # Cargar los datos del archivo CSV
-data = pd.read_csv('college_student_placement_dataset_convert.csv')  
+data = pd.read_csv('../data/college_student_placement_dataset_convert.csv')  
 
 #Establecer limites para considerar un atributo como alto
 cgpa_limite = 8.0 # CGPA minimo para considerarse dentro del rango 

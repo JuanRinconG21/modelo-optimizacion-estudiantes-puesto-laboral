@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt  # Para crear graficos basicos
 import seaborn as sns            # Para una mejor visualizacion de los graficos
 
 # Cargar y leer los datos del archivo CSV
-df = pd.read_csv("college_student_placement_dataset_convert.csv")  
+df = pd.read_csv("../data/college_student_placement_dataset_convert.csv")  
 
 # Convertir las columnas de 0/1 a 'Si' y 'No' 
 # para que se entiendan mejor en las gráficas
